@@ -1,7 +1,7 @@
 # Campus_Eats
 
 # Team and Members
-<b> Group Members </b></br>
+<b> Group  12-Members </b></br>
 1.Jaissruti Nanthakumar<br />
 2.Janani<br />
 3.Sunil<br />
