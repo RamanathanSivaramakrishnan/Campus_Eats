@@ -2,9 +2,9 @@
 
 # Team and Members
 <b> Group Members </b>
-1.Jaissruti Nanthakumar
-2.Janani
-3.Sunil
+1.Jaissruti Nanthakumar<br />
+2.Janani<br />
+3.Sunil<br />
 4.Ramanathan Sivaramakrishnan - 801243565
 
 # Project Introduction
