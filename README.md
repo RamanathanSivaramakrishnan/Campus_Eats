@@ -3,7 +3,7 @@
 # Team and Members
 <b> Group  12-Members </b></br>
 1.Jaissruti Nanthakumar - 801268098 <br /> 
-2.Janani<br />
+2.Janani Sri Adanur Rammohan-801259018<br />
 3.Sunil Sundaram - 801221550 <br />
 4.Ramanathan Sivaramakrishnan - 801243565
 
